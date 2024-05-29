@@ -16,3 +16,4 @@
 <div align=center> 🏠 한성대학교 24-1 캡스톤디자인 🏨 </div>
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
